@@ -4,8 +4,8 @@
 
 Группа: М8О-410Б-21
 
-Лабораторная работа №6: [lab6.ipynb](https://github.com/mx4alex/Multimedia-2/blob/main/lab6.ipynb)
+[Лабораторная работа №6](https://github.com/mx4alex/Multimedia-2/blob/main/lab6.ipynb): Проведение исследований с моделями классификации
 
-Лабораторная работа №7: [lab7.ipynb](https://github.com/mx4alex/Multimedia-2/blob/main/lab7.ipynb)
+[Лабораторная работа №7](https://github.com/mx4alex/Multimedia-2/blob/main/lab7.ipynb): Проведение исследований моделями семантической сегментации
 
-Лабораторная работа №8: [lab8.ipynb](https://github.com/mx4alex/Multimedia-2/blob/main/lab8.ipynb)
+[Лабораторная работа №8](https://github.com/mx4alex/Multimedia-2/blob/main/lab8.ipynb): Проведение исследований моделями обнаружения и распознавания объектов
